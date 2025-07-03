@@ -38,7 +38,7 @@
 
 ## 🚀 **Professional Summary**
 
-**Senior Full-Stack Developer** with **8+ years** of experience in building scalable web applications, blockchain solutions, and enterprise-grade software. Specialized in **Web3 technologies**, **AI/ML integration**, and **cybersecurity**. Led development teams and delivered **500+ successful projects** for startups and Fortune 500 companies.
+**Senior Full-Stack Developer** with **7+ years** of experience in building scalable web applications, blockchain solutions, and enterprise-grade software. Specialized in **Web3 technologies**, **AI/ML integration**, and **cybersecurity**. Led development teams and delivered **500+ successful projects** for startups and Fortune 500 companies.
 
 ### 🎯 **Key Achievements**
 - 🏆 **500+ Projects** delivered across multiple industries
