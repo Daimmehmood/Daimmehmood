@@ -1,3 +1,5 @@
+                > ⚠️ This repository is protected. You are not allowed to fork, clone, or reuse any content without permission. Legal action may be taken.
+
 # Hi there, I'm Daim Khan ...
 
 <div align="center">
