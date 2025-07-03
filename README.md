@@ -222,15 +222,14 @@
 
 <table>
 <tr>
-<td align="center"><strong>🏢 Enterprise Projects</strong><br/>500+ Delivered</td>
-<td align="center"><strong>💰 Funding Raised</strong><br/>$50M+ Through Projects</td>
-<td align="center"><strong>👥 Team Leadership</strong><br/>50+ Developers Mentored</td>
+<td align="center"><strong>🏢 Enterprise Projects</strong><br/>200+ Delivered</td>
+<td align="center"><strong>👥 Team Leadership</strong><br/>10+ Developers Mentored</td>
 <td align="center"><strong>🔐 Security Record</strong><br/>Zero Breaches</td>
+<td align="center"><strong>🌍 Global Reach</strong><br/>21+ Countries</td>
 </tr>
 <tr>
-<td align="center"><strong>🌍 Global Reach</strong><br/>100+ Countries</td>
 <td align="center"><strong>⚡ System Uptime</strong><br/>99.9% Maintained</td>
-<td align="center"><strong>🚀 Years Experience</strong><br/>8+ Professional</td>
+<td align="center"><strong>🚀 Years Experience</strong><br/>7+ Professional</td>
 <td align="center"><strong>🏆 Client Satisfaction</strong><br/>98% Rating</td>
 </tr>
 </table>
